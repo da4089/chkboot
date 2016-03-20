@@ -32,7 +32,7 @@ alert types will be used. Alert types are currently on shell login via
 your modules array to have chkboot run automatically when you upgrade linux.
 
 `SYSTEMD SUPPORT`: If your system uses systemd, you should enable the chkboot
-service to have your boot partitioned checked every time your system starts.
+service to have your boot partition checked every time your system starts.
 
 Installation
 ------------
